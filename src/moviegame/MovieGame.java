@@ -28,7 +28,7 @@ public class MovieGame {
 //        contains a large list of movies. You can download a sample text file  
 //        to play with from the resources tab or create your own list of movie 
 //        titles. Once the computer picks a random title, it will display 
-//        underscores _ in place of the real letters, thereby only giving away 
+//        underscores _ in place of the real letters, in the process only giving away 
 //        the number of letters in the movie title.
         
         
